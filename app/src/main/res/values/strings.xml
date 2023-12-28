@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TicTac</string>
+    <string name="button1_description">Top-left cell</string>
+    <string name="button2_description">Top-center cell</string>
+    <string name="button3_description">Top-right cell</string>
+    <string name="button4_description">Middle-left cell</string>
+    <string name="button5_description">Middle-center cell</string>
+    <string name="button6_description">Middle-right cell</string>
+    <string name="button7_description">Bottom-left cell</string>
+    <string name="button8_description">Bottom-center cell</string>
+    <string name="button9_description">Bottom-right cell</string>
+    <string name="current_symbol_x">Current Symbol: X</string>
+    <string name="player_s_turn_x">Player\'s Turn: X</string>
+    <string name="player_turn">%s\'s turn</string>
+    <string name="player_x_score">Player X: %d</string>
+    <string name="player_o_score">Player O: %d</string>
+    <string name="default_score">""</string>
+    <string name="button_description">Button %s</string>
+    <string name="new_game">New Game</string>
+    <string name="score_card">Score Card</string>
+    <string name="reset">Reset</string>
+    <string name="next_level">NEXT lEVEL</string>
+    <string name="tic_tac_toe">Tic Tac Toe</string>
+
+
+</resources>
